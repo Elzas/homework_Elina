@@ -1,0 +1,5 @@
+<?
+
+$active = 'home';
+
+$tpl = 'home';
