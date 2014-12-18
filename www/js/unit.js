@@ -3,7 +3,7 @@ function close() {
     $('.hidden-background').css('display', 'none');
 }
 
-$('#add-project').on('click', function() {
+$('.add-project').on('click', function() {
     $('.hidden-form').css('display', 'block');
     $('.hidden-background').css('display', 'block');
 });

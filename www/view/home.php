@@ -1,9 +1,8 @@
-
             <div class="right-block clearfix">
-                <div class="main-information clearfix">
-                    <h2>Основная информация</h2>
+                <div class="record main-information clearfix">
+                    <div><h2>Основная информация</h2></div>
                     <div class="userface">
-                        <img src="img/fase.jpg" alt="">
+                        <img src="img/me.jpg" alt="Я">
                     </div>
                     <div class="info">
                         <p><span class="bolt">Меня зовут:</span> Лысенко Элина Сергеевна</p>
@@ -14,29 +13,33 @@
                         <div class="skills"> 
                             <span class="skill">html</span>
                             <span class="skill">css</span>
-                            <span class="skill">javascript</span>
-                            <span class="skill">gulp</span>
-                            <span class="skill">git</span></div>
+                            <span class="skill">JavaScript</span>
+                            <span class="skill">git</span>
+                            <span class="skill">Bootstrap</span>
+                            <span class="skill">PHP</span>
+                            <span class="skill">MySQL</span>
+                        </div>
                     </div>
                 </div>
-                <div class="experience">
-                    <h2>Опыт работы</h2>
+                <div class="record experience">
+                    <div><h2>Опыт работы</h2></div>
                     <ul>
-                        <li><h3>"ИП Боровицкий" - Продавец дисков</h3>
-                            <p>Сентябрь 2005 - Август 2008</p></li>
-                        <li><h3>"ООО Системы безопастности" - Системный администратор</h3>
-                            <p>Июнь 2008 - Июль 2010</p></li>
+                        <li><h3>ТОВ "ДемиксБрокСерв" - Помощник таможенного брокера</h3>
+                            <p>Октябрь 2013 - Сентябрь 2014</p></li>
+                        <li><h3>ГТСУ - Инспектор таможенной службы Украины</h3>
+                            <p>Август 2011 - Сентябрь 2013</p></li>
                     </ul>
                 </div>
-                <div class="education">
-                    <h2>Образование</h2>
+                <div class="record education">
+                    <div><h2>Образование</h2></div>
                     <ul>
-                        <li class="university-degree"><h3>Незаконченное высшее. СПБГУ ИТМО</h3>
-                            <p>Октябрь 2012 - по настоящее время</p></li>
+                        <li class="university-degree"><h3>Высшее. Специалист. Факультет ИТСТ, компьютерные науки. АТСУ, Днепропетровск.</h3>
+                            <p>Сентябрь 2006 - Июль 2011</p></li>
+                        <li class="course"><h3>Курс "Создание и продвижение WEB-проектов". КА "Шаг", Львов</h3>
+                            <p>Сентябрь 2013 - Сентябрь 2014</p></li>
                         <li class="course"><h3>Курсы Loftschool.ru</h3>
-                            <p>Ноябрь 2014 - по настоящее время</p></li>
+                            <p>Декабрь 2014 - по настоящее время</p></li>
                     </ul>
                 </div>
             </div>
         </div>
-        <!--</div>-->

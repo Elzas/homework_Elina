@@ -2,6 +2,10 @@
 
 function connect_to_db() {
     $config = array(
+//        'host' => 'localhost',
+//        'user' => 'root',
+//        'password' => '',
+//        'database' => 'newlogic'
         'host' => 'genaker.mysql.ukraine.com.ua',
         'user' => 'genaker_db',
         'password' => 'ae1804bt',
