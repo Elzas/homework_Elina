@@ -23,10 +23,10 @@
                     <a href="<?= BASE ?>/"><img src="img/logo.png" alt="Логотип"></a>
                 </div>
                 <ul  class="social-links right">
-                    <li><a class="vk" target="_blank" href="http://vk.com/elya_lysenko"></a></li>
-                    <li><a class="tw" target="_blank" href="http://twitter.com/ElyaLysenko"></a></li>
-                    <li><a class="fb" target="_blank" href="http://facebook.com/elina.escape.9"></a></li>
-                    <li><a class="gh" target="_blank" href="http://github.com/Elzas"></a></li>
+                    <li><a class="vk" target="_blank" href="http://vk.com/elya_lysenko">vk</a></li>
+                    <li><a class="tw" target="_blank" href="http://twitter.com/ElyaLysenko">tw</a></li>
+                    <li><a class="fb" target="_blank" href="http://facebook.com/elina.escape.9">fb</a></li>
+                    <li><a class="gh" target="_blank" href="http://github.com/Elzas">gh</a></li>
                 </ul>
             </div>
         </div>
@@ -37,7 +37,7 @@
         </div>
 
         <div class="container clearfix">
-            <aside class="left">
+            <aside class="aside left">
                 <nav class="navigation">
                     <div class="menu">
                         <ul>

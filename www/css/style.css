@@ -53,6 +53,7 @@ body{
 }
 
 .header-wrapper{
+    min-width: 960px;
     height: 115px;
     width: 100%;
     background: #eff3f7;
@@ -61,7 +62,9 @@ body{
     margin: 0 auto;
     padding: 29px 0;
     max-width: 1200px;
+    min-width: 960px;
 }
+
 .left{float: left;}
 
 .right{
@@ -78,6 +81,8 @@ body{
 /*Sprites social icons*/
 
 .fb,.gh,.tw,.vk{
+    text-indent: -20px;
+    color: #eff3f7;
     display: block;
     width: 47px;
     height: 47px; 
@@ -95,6 +100,7 @@ body{
 .vk:hover{ background-position: -363px 0;} 
 
 .hr{
+    min-width: 960px;
     width: 100%;
 }
 .hr-left, .hr-right{
@@ -123,6 +129,7 @@ body{
     padding: 39px 0;
     transition: all .5s;
 }
+.aside {width: 250px;}
 .navigation {
     width: 250px
 }
@@ -866,6 +873,7 @@ body{
 }
 
 .footer{
+    min-width: 960px;
     font-family: 'firasans-light';
     font-size: 13px;
     height: 77px;
